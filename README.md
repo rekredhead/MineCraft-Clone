@@ -1,3 +1,9 @@
+# Notes
+- This isn't my project initially, I went through a course on FreeCodeCamp on building a Minecraft Clone,
+    using React.js and Three.js
+- Hoping to add more features
+- First goal is to optimize this project as much as possible since it lags so much as more blocks gets added
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
